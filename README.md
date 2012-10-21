@@ -37,7 +37,7 @@ Hopefully they can add mp3 support soon.
 
 ## Bugs / Contributions
 
-- [Report a bug](https://github.com/kolber/audiojs/issues)
+- [Report a bug](https://github.com/edinella/audiojs/issues)
 - To contribute or send an idea, github message me or fork the project
 
 ## Build
